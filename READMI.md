@@ -7,7 +7,7 @@
 
 
 
-![Линукс кофе](https://pikabu.ru/story/a_ya_yuzayu_linux_11100921)
+![Линукс и ОС](https://pikabu.ru/story/a_ya_yuzayu_linux_11100921)
 
 
 ## Live codding
